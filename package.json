@@ -1,0 +1,15 @@
+{
+  "name": "quizlet",
+  "version": "1.0.0",
+  "description": "A node module for interacting with the Quizlet API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/tjhorner/node-quizlet",
+  "author": "TJ Horner <me@tjhorner.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
